@@ -33,4 +33,4 @@ Cualquier usuario puede solicitar la eliminación de su ID de la whitelist en cu
 
 ## 6. Contacto
 
-Para cualquier duda sobre esta política o sobre tus datos, contacta con Arce a través de https://github.com/arce-ky.
+Para cualquier duda sobre esta política o sobre tus datos, contacta con Arce a través de https://github.com/arce-ky/Bots-Arce/issues.
